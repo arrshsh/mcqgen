@@ -1,0 +1,11 @@
+openai
+langchain
+streamlit
+python-dotenv
+PyPDF2
+langchain_community
+
+
+-e .
+# to install the local packages into virtual environment, 
+# either run setup.py or do the -e thing done above 
